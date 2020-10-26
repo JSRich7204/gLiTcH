@@ -1,0 +1,54 @@
+@import url("webfonts/BadSignal/stylesheet.css");
+@import url("webfonts/ExtraBlur/stylesheet.css");
+
+h1 {
+    text-align: center;
+    color: #000;
+    font-style: normal;
+    font-weight: 400;
+    font-family: ExtraBlur
+}
+
+
+body {
+    background-image: url(MOSHED-2019-1-21-15-49-50.jpg);
+
+}
+
+h2 {
+    text-align: center;
+    font-family: ExtraBlur;
+}
+body p {
+}
+.footer h1 {
+    color: #591685;
+    font-family: ExtraBlur;    
+}
+.footer {
+    background-color: #000;
+    font-family: ExtraBlur;
+    color: #591685;
+}
+#form1 p #submit {
+
+
+}
+.header .logo {
+    color: #591685;
+    font-family: ExtraBlur;
+    text-align: center;
+    margin-top: 0px;
+}
+.MusicVideo {
+    width: 200px;
+    height: 200px;
+}
+.section1 {
+    background-color: #000000;
+    color: #591685;
+}
+.sectionTitle {
+    color: #591685;
+    background-color: #000000;
+}
